@@ -1,0 +1,14 @@
+C:\Users\ayusu\OneDrive\Documents\GitHub\C-\Practice\bin\Debug\net9.0\Practice.exe
+C:\Users\ayusu\OneDrive\Documents\GitHub\C-\Practice\bin\Debug\net9.0\Practice.deps.json
+C:\Users\ayusu\OneDrive\Documents\GitHub\C-\Practice\bin\Debug\net9.0\Practice.runtimeconfig.json
+C:\Users\ayusu\OneDrive\Documents\GitHub\C-\Practice\bin\Debug\net9.0\Practice.dll
+C:\Users\ayusu\OneDrive\Documents\GitHub\C-\Practice\bin\Debug\net9.0\Practice.pdb
+C:\Users\ayusu\OneDrive\Documents\GitHub\C-\Practice\obj\Debug\net9.0\Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayusu\OneDrive\Documents\GitHub\C-\Practice\obj\Debug\net9.0\Practice.AssemblyInfoInputs.cache
+C:\Users\ayusu\OneDrive\Documents\GitHub\C-\Practice\obj\Debug\net9.0\Practice.AssemblyInfo.cs
+C:\Users\ayusu\OneDrive\Documents\GitHub\C-\Practice\obj\Debug\net9.0\Practice.csproj.CoreCompileInputs.cache
+C:\Users\ayusu\OneDrive\Documents\GitHub\C-\Practice\obj\Debug\net9.0\Practice.dll
+C:\Users\ayusu\OneDrive\Documents\GitHub\C-\Practice\obj\Debug\net9.0\refint\Practice.dll
+C:\Users\ayusu\OneDrive\Documents\GitHub\C-\Practice\obj\Debug\net9.0\Practice.pdb
+C:\Users\ayusu\OneDrive\Documents\GitHub\C-\Practice\obj\Debug\net9.0\Practice.genruntimeconfig.cache
+C:\Users\ayusu\OneDrive\Documents\GitHub\C-\Practice\obj\Debug\net9.0\ref\Practice.dll

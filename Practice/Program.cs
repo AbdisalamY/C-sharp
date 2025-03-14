@@ -1,6 +1,5 @@
-﻿string fname = "Abdisalam ";
-string lname = "Mohamad";
+﻿int num1 = 500;
+int num2 = 600;
 
-string fullname = fname + lname;
-
-Console.WriteLine(fullname);
+int num3 = System.Math.Max(num1, num2);
+Console.WriteLine(num3);

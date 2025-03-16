@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ayusu\\OneDrive\\Documents\\GitHub\\C-\\Practice\\Practice.csproj": {}
+    "C:\\Users\\ayusu\\OneDrive\\Documents\\GitHub\\C-\\practice\\Practice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ayusu\\OneDrive\\Documents\\GitHub\\C-\\Practice\\Practice.csproj": {
+    "C:\\Users\\ayusu\\OneDrive\\Documents\\GitHub\\C-\\practice\\Practice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ayusu\\OneDrive\\Documents\\GitHub\\C-\\Practice\\Practice.csproj",
+        "projectUniqueName": "C:\\Users\\ayusu\\OneDrive\\Documents\\GitHub\\C-\\practice\\Practice.csproj",
         "projectName": "Practice",
-        "projectPath": "C:\\Users\\ayusu\\OneDrive\\Documents\\GitHub\\C-\\Practice\\Practice.csproj",
+        "projectPath": "C:\\Users\\ayusu\\OneDrive\\Documents\\GitHub\\C-\\practice\\Practice.csproj",
         "packagesPath": "C:\\Users\\ayusu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ayusu\\OneDrive\\Documents\\GitHub\\C-\\Practice\\obj\\",
+        "outputPath": "C:\\Users\\ayusu\\OneDrive\\Documents\\GitHub\\C-\\practice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ayusu\\AppData\\Roaming\\NuGet\\NuGet.Config"
